@@ -38,7 +38,7 @@ python3 setup.py install
 
 ## Inference 
 ```bash
-bash threestudio/scripts/xiaoya_test_demo.sh 
+bash scripts/stable_zero123_inference.sh
 ```
 
 
